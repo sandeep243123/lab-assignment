@@ -1,0 +1,9 @@
+Name, House Value(Crores), Size, Description of house, Location Description, rooms&amp;lt;NewLine&amp;gt;
+Anvesa, 25.32, 256.2353, Has 2 rooms with a kitchen etc. big lawn., In ambala opposite to
+Makhaan Misthan Bhandar, 5&amp;lt;NewLine&amp;gt;
+Barhanudin, 15.523, 256.2353, Has 2 rooms with a kitchen etc. big lawn., In ambala opposite
+to Makhaan Misthan Bhandar, 52&amp;lt;NewLine&amp;gt;
+Manoj, 98.23, 256.2353, Has 2 rooms with a kitchen etc. big lawn., In ambala opposite to
+Makhaan Misthan Bhandar, 10&amp;lt;NewLine&amp;gt;
+Anupam, 145.02, 256.2353, Has 2 rooms with a kitchen etc. big lawn., In ambala opposite to
+Makhaan Misthan Bhandar, 2&amp;lt;NewLine&amp;gt;

@@ -1,4 +1,3 @@
-hello user,
-my name is sandeep kumar
-i am from bareilly, up
-currently i am studying in mca at nit kurukchetra, which is situated in haryana.I love my
+Name: abc, Age: 12, City: hyderbad
+Name: bef, Age: 25, City: delhi
+Name: Cce, Age: 65, City: bangalore
